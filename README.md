@@ -1,1 +1,1 @@
-# puppet_cloud
+# Building the initial config for the puppet modules in the cloud
